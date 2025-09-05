@@ -25,6 +25,7 @@
   </el-container>
 </template>
 <script>
+
 import BlogTable from '@/components/BlogTable'
 import BlogCfg from '@/components/BlogCfg'
 import {postRequest} from '../utils/api'
